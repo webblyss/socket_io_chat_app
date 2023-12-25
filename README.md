@@ -12,7 +12,7 @@ This is a simple Flutter chat application that demonstrates how to use GetX for 
    git clone https://github.com/your-username/flutter-chat-app.git
    cd flutter-chat-app
    
-   ```
+
 
    `flutter pub get`
    `flutter run`
@@ -27,3 +27,10 @@ This is a simple Flutter chat application that demonstrates how to use GetX for 
     This Flutter app uses the GetX package for state management. GetX provides a simple and powerful state management solution that includes reactive programming, dependency injection, and route management.
 
     # Chat UI with Dash Chat 2
+
+file:///home/solo/Downloads/WhatsApp%20Image%202023-12-25%20at%203.54.49%20AM.jpeg
+
+
+
+
+
