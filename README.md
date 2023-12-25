@@ -28,9 +28,6 @@ This is a simple Flutter chat application that demonstrates how to use GetX for 
 
     # Chat UI with Dash Chat 2
 
-file:///home/solo/Downloads/WhatsApp%20Image%202023-12-25%20at%203.54.49%20AM.jpeg
-
-
 
 
 
